@@ -1,0 +1,35 @@
+div{
+    border: 2px solid black;
+    padding: 20px; 
+    margin: 20px;
+    text-align: center;
+    font-size: 70px; 
+    background-color: darkred;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-size: contain;
+}
+#one{
+    color: rgba(201, 90, 0, 0.623);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+img{
+    position: relative ;
+    left: 550px;
+}
+p{
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(0, 0, 0);
+}
+button{
+    font-size: 20px;
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+    color: rgba(255, 0, 0, 0.801);
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
